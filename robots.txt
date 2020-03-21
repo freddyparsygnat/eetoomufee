@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fookietalu.jessicapeters.ca/sitemap.xml
